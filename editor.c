@@ -22,13 +22,13 @@
 #include<stdlib.h>
 #include<string.h> 
 #include<malloc.h> 
-void right1();
 
+void right1();
 struct node {
 	int count;
    	char *array;			
    	struct node *up,*down;
- 	};
+};
 
        
 MEVENT event;

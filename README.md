@@ -12,7 +12,7 @@ Run the code as:
     .    
 This simple text editor is implemented using "C" language and "ncurses" library .
 
-It has different background colours 
+Also I updated a help tab please see to it before start typing it shows different keyboard shortcuts.
 
 It also does the following functions:
 
